@@ -1,7 +1,7 @@
 ---
 title: Update your cluster flavor
 excerpt: Find out how to adjust the flavor of your cluster
-updated: 2023-07-10
+updated: 2023-07-24
 ---
 
 ## Objective
@@ -10,11 +10,11 @@ Learn how to adjust the flavor of your cluster according to your needs.
 
 ## How to upgrade your flavor
 
-This option is available through the OVHcloud [API](https://ca.api.ovh.com/console/) and [Control Panel](https://ca.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com.au/&ovhSubsidiary=au).
+This option is available through the OVHcloud [API](https://api.ovh.com/console/) and [Control Panel](https://ovh.com/auth/?action=gotomanager&from=https://www.ovh.com.au/&ovhSubsidiary=au).
 
 ### Requirements
 
-- Access to your [OVHcloud Control Panel](https://ca.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com.au/&ovhSubsidiary=au) or to the [API](https://ca.api.ovh.com/console/)
+- Access to your [OVHcloud Control Panel](https://ovh.com/auth/?action=gotomanager&from=https://www.ovh.com.au/&ovhSubsidiary=au) or to the [API](https://api.ovh.com/console/)
 - A [Public Cloud project](https://www.ovhcloud.com/en-au/public-cloud/) in your OVHcloud account
 
 ### Instructions
@@ -29,11 +29,11 @@ Click `Change node template`{.action} and adjust the flavor of your cluster.
 
 ## How to downgrade your flavor
 
-This option is currently available via the OVHcloud [API](https://ca.api.ovh.com/console/).
+This option is currently available via the OVHcloud [API](https://api.ovh.com/console/).
 
 ### Requirements
 
-- Access to the OVHcloud [API](https://ca.api.ovh.com/console/){.external} (create your credentials by consulting [this guide](/pages/account/api/first-steps))
+- Access to the OVHcloud [API](https://api.ovh.com/console/){.external} (create your credentials by consulting [this guide](/pages/account/api/first-steps))
 - A [Public Cloud project](https://www.ovhcloud.com/en-au/public-cloud/) in your OVHcloud account
 
 ### Instructions

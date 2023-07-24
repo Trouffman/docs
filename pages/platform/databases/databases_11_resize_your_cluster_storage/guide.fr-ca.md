@@ -1,7 +1,7 @@
 ---
-title: Resize your cluster storage
-excerpt: Find out how to adjust the storage space of your cluster
-updated: 2023-07-10
+title: Redimensionner l'espace disque de votre cluster (EN)
+excerpt: Découvrer comment redimensionner l'espace disque de votre cluster
+updated: 2023-07-24
 routes:
     canonical: '/pages/platform/databases/databases_11_resize_your_cluster_storage'
 ---

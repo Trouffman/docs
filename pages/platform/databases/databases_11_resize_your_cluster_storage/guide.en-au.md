@@ -1,7 +1,7 @@
 ---
 title: Resize your cluster storage
 excerpt: Find out how to adjust the storage space of your cluster
-updated: 2023-07-10
+updated: 2023-07-24
 ---
 
 ## Objective
@@ -15,11 +15,11 @@ Learn how to adjust the storage space of your cluster according to your needs.
 
 ## How to increase storage
 
-This option is available through the OVHcloud [API](https://ca.api.ovh.com/console/) and the [Control Panel](https://ca.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com.au/&ovhSubsidiary=au).
+This option is available through the OVHcloud [API](https://api.ovh.com/console/) and the [Control Panel](https://ovh.com/auth/?action=gotomanager&from=https://www.ovh.com.au/&ovhSubsidiary=au).
 
 ### Requirements
 
-- Access to your [OVHcloud Control Panel](https://ca.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com.au/&ovhSubsidiary=au) or to the [API](https://ca.api.ovh.com/console/)
+- Access to your [OVHcloud Control Panel](https://ovh.com/auth/?action=gotomanager&from=https://www.ovh.com.au/&ovhSubsidiary=au) or to the [API](https://api.ovh.com/console/)
 - A [Public Cloud project](https://www.ovhcloud.com/en-au/public-cloud/) in your OVHcloud account
 
 ### Instructions
@@ -34,11 +34,11 @@ Click `Add more storage`{.action} and adjust the storage space of your cluster.
 
 ## How to decrease storage
 
-This option is currently only available via the OVHcloud [API](https://ca.api.ovh.com/console/).
+This option is currently only available via the OVHcloud [API](https://api.ovh.com/console/).
 
 ### Requirements
 
-- Access to the OVHcloud [API](https://ca.api.ovh.com/console/){.external} (create your credentials by consulting [this guide](/pages/account/api/first-steps))
+- Access to the OVHcloud [API](https://api.ovh.com/console/){.external} (create your credentials by consulting [this guide](/pages/account/api/first-steps))
 - A [Public Cloud project](https://www.ovhcloud.com/en-au/public-cloud/) in your OVHcloud account
 
 ### Instructions
